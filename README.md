@@ -1,177 +1,58 @@
-# Tanvir_Ahmed
-# Responsive Resume Website
+# 👤 Tanvir Ahmed
 
-A clean, modern, and fully responsive **Resume / CV Website** built using **HTML, CSS, and JavaScript**. This project recreates a professional resume design with a minimalist layout, making it ideal for personal portfolios, job applications, and online resumes.
-
-![Resume Preview](preview.png)
+![Resume Preview](resume.png)
 
 ---
 
-## ✨ Features
+## 👨 About Me
 
-- 📱 Fully Responsive Design
-- 🎨 Modern & Minimal UI
-- 👤 Profile Section
-- 📄 Professional Summary
-- 💼 Experience Timeline
-- 🎓 Education Section
-- 🛠 Skills Showcase
-- 📞 Contact Information
-- ⚡ Smooth Scrolling
-- 🌙 Easy to Customize
-- 🚀 Fast Loading
-- 💻 Cross Browser Compatible
+Hi, I'm Tanvir Ahmed, a second-year Textile Materials Engineering student at Bangladesh University of Textiles (BUTEX).
+
+Outside of university, I run an educational YouTube channel where I teach Physics to HSC and engineering admission students. I enjoy sharing knowledge, learning new skills, and building projects that challenge me to grow.
+
+In my free time, usually I read books, exploring new ideas and tools, or watching thought-provoking TV shows.
 
 ---
 
-## 🛠 Built With
+## 📞 Contact
 
-- HTML5
-- CSS3
-- JavaScript (Vanilla)
-- Google Fonts
-- Font Awesome Icons
+- 📱 01842002093 (Whatsapp)
+- 📧 mdta.connect@gmail.com
 
 ---
 
-## 📂 Folder Structure
+## 🎓 Education
 
-```
-resume-website/
-│
-├── index.html
-├── css/
-│   └── style.css
-├── js/
-│   └── script.js
-├── assets/
-│   ├── images/
-│   │   ├── profile.jpg
-│   │   └── preview.png
-│   └── icons/
-└── README.md
-```
+### (2020–2022)
+
+**Secondary School Cirtificate**
+
+Mirpur Bangla Higher Secondary School 
+
+**GPA:** 5.00
 
 ---
 
-## 🚀 Getting Started
+### (2022–2024)
 
-### Clone the repository
+**Higher Secondary Cirtificate**
 
-```bash
-git clone https://github.com/yourusername/resume-website.git
-```
+Government Vashantek College
 
-### Open the project
-
-Simply open `index.html` in your browser.
-
-Or use **VS Code Live Server** for a better development experience.
+**GPA:** 5.00
 
 ---
 
-## 🎨 Sections Included
+## 🛠 Skills
 
-- Hero / Profile
-- About Me
-- Experience
-- Education
-- Skills
-- Contact
+- Microsoft Workshop
+- Blogging
+- Editing
 
 ---
 
-## 📱 Responsive
+## 🌐 Languages
 
-The website is optimized for:
-
-- Desktop
-- Laptop
-- Tablet
-- Mobile Devices
-
----
-
-## 🎯 Customization
-
-You can easily edit:
-
-- Name
-- Profile Photo
-- Job Title
-- About Section
-- Experience
-- Education
-- Skills
-- Contact Details
-- Colors
-- Fonts
-
----
-
-## 📸 Screenshot
-
-Add your project screenshot inside:
-
-```
-assets/images/preview.png
-```
-
----
-
-## 💡 Future Improvements
-
-- Dark Mode
-- Download Resume Button
-- Project Portfolio Section
-- Certifications
-- Languages
-- Social Media Links
-- Animation Effects
-- Contact Form
-- Theme Switcher
-
----
-
-## 🌐 Browser Support
-
-- Google Chrome
-- Microsoft Edge
-- Firefox
-- Safari
-- Opera
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**.
-
----
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome.
-
-Feel free to fork the project and submit a pull request.
-
----
-
-## ⭐ Support
-
-If you like this project, please consider giving it a **⭐ Star** on GitHub.
-
----
-
-## 📬 Contact
-
-**Your Name**
-
-- Email: your@email.com
-- Website: https://yourwebsite.com
-- LinkedIn: https://linkedin.com/in/yourprofile
-- GitHub: https://github.com/yourusername
-
----
-
-Made with ❤️ using HTML, CSS & JavaScript.
+- English
+- Bangla
+- Hindi
