@@ -16,7 +16,6 @@ In my free time, usually I read books, exploring new ideas and tools, or watchin
 
 ## 📞 Contact
 
-- 📱 01842002093 (Whatsapp)
 - 📧 mdta.connect@gmail.com
 
 ---
